@@ -1,4 +1,5 @@
 #Ruby on Rails Tutorial: first application
+#Lets make more changes
 
 This is the first application for(*Ruby on RAils Tutorial: Lear Rails by Example*) (http://railstutorial.org/)
 by (Michael Hartl) (http://michaelhartl.com/).
